@@ -500,7 +500,7 @@ File structure :
 
 &nbsp;
 
-### &#x1F530; Result :
+### &#x1F525; Result :
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_011_aws_result_creating_intance.png" alt="ss_011_aws_result_creating_intance" style="display: block; margin: 0 auto;">
