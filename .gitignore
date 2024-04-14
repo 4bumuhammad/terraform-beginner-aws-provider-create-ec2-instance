@@ -6,6 +6,9 @@
 *.tfstate
 *.tfstate.backup
 
+# .clj-kondo
+# .lsp
+
 
 **/.terraform/**
 **/.terraform
