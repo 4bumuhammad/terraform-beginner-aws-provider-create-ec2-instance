@@ -66,10 +66,6 @@
     <img src="./gambar-petunjuk/ss_010_aws_launch_an_instance.png" alt="ss_010_aws_launch_an_instance" style="display: block; margin: 0 auto;">
 </div> 
 
-<div align="center">
-    <img src="./gambar-petunjuk/ss_011_aws_result_creating_intance.png" alt="ss_011_aws_result_creating_intance" style="display: block; margin: 0 auto;">
-</div> 
-
 &nbsp;
 
 &nbsp;
@@ -484,6 +480,14 @@ File structure :
 
             Apply complete! Resources: 4 added, 0 changed, 0 destroyed.
 </pre>
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_011_aws_result_creating_intance.png" alt="ss_011_aws_result_creating_intance" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
 
 &nbsp;
 
