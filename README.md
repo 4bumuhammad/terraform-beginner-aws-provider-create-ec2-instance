@@ -30,37 +30,55 @@
     <img src="./gambar-petunjuk/ss_001_aws_iam_create_user.png" alt="ss_001_aws_iam_create_user" style="display: block; margin: 0 auto;">
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_002_aws_iam_specify_user.png" alt="ss_002_aws_iam_specify_user" style="display: block; margin: 0 auto;">
 </div> 
+
+&nbsp;
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_003_aws_iam_set_permissions.png" alt="ss_003_aws_iam_set_permissions" style="display: block; margin: 0 auto;">
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_004_aws_iam_submit_create_user.png" alt="ss_004_aws_iam_submit_create_user" style="display: block; margin: 0 auto;">
 </div> 
+
+&nbsp;
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_005_aws_iam_successful_create_user.png" alt="ss_005_aws_iam_successful_create_user" style="display: block; margin: 0 auto;">
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_006_aws_iam_terraform_admin_create_access_key.png" alt="ss_006_aws_iam_terraform_admin_create_access_key" style="display: block; margin: 0 auto;">
 </div> 
+
+&nbsp;
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_007_aws_iam_accress_key_use_case.png" alt="ss_007_aws_iam_accress_key_use_case" style="display: block; margin: 0 auto;">
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_008_aws_iam_access_key_set_tag.png" alt="ss_008_aws_iam_access_key_set_tag" style="display: block; margin: 0 auto;">
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_009_aws_iam_access_key_retrieve.png" alt="ss_009_aws_iam_access_key_retrieve" style="display: block; margin: 0 auto;">
 </div> 
+
+&nbsp;
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_010_aws_launch_an_instance.png" alt="ss_010_aws_launch_an_instance" style="display: block; margin: 0 auto;">
@@ -69,7 +87,6 @@
 &nbsp;
 
 &nbsp;
-
 
 File structure :
 <pre>
@@ -483,6 +500,8 @@ File structure :
 
 &nbsp;
 
+### &#x1F530; Result :
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_011_aws_result_creating_intance.png" alt="ss_011_aws_result_creating_intance" style="display: block; margin: 0 auto;">
 </div> 
@@ -490,6 +509,10 @@ File structure :
 &nbsp;
 
 &nbsp;
+
+&nbsp;
+
+---
 
 &nbsp;
 
