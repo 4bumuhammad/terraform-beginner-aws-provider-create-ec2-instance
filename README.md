@@ -8,7 +8,7 @@
 <!-- - YT | How to Create EC2 instance using Terraform | Step By Step Tutorials | latest
   <pre>https://www.youtube.com/watch?v=eBW0MWOBwe0</pre> -->
 
-- Docs | AWS Provider
+- Docs | aws provider
   <pre>https://registry.terraform.io/providers/hashicorp/aws/latest/docs</pre>
 
 - Docs | tls private key
