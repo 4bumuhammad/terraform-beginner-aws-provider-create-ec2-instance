@@ -105,7 +105,7 @@ File structure :
 
 &nbsp;
 
-**ATTENTION ! :** <br />
+**&#x1F534; ATTENTION ! :** <br />
 
 **Reference :**<br />
 - Docs | OpenSSL
