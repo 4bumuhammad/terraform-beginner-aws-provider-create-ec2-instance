@@ -357,7 +357,7 @@ File structure :
 &nbsp;
 
 <pre>
-    ❯ terraform apply -var-file=./secret.tfvars
+    ❯ terraform apply -var-file=./secret.tfvars -auto-approve
 
 
 
@@ -565,7 +565,7 @@ File structure :
 
 ### &#x1F530; Destroy
 <pre>
-    ❯ terraform destroy -var-file=./secret.tfvars
+    ❯ terraform destroy -var-file=./secret.tfvars -auto-approve
 
 
 
